@@ -5,7 +5,7 @@
 
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="www.linkedin.com/in/liorho" height="20" width="27" /> **hoshealior@gmail.com**
 
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/liorho" height="20" width="27" /><a href="linkedin.com/in/liorho" target="_blank"> **linkedin.com/in/liorho** </a>
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/liorho" height="20" width="27" /><a href="https://www.linkedin.com/in/liorho/" target="_blank"> **linkedin.com/in/liorho** </a>
 
 </br>
 
